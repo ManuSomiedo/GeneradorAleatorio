@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1435794984 source:c:\users\manue\documents\cadenasaleatorias\main.cpp
+	"generadoraleatorio.h"
+	<stdlib.h>
+
+1435792358 c:\users\manue\documents\cadenasaleatorias\generadoraleatorio.h
+	<fstream>
+	<vector>
+	<string>
+
+1435794744 source:c:\users\manue\documents\cadenasaleatorias\generadoraleatorio.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<time.h>
+	<cstdlib>
+	<vector>
+	"generadoraleatorio.h"
+
